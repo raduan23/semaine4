@@ -1,0 +1,33 @@
+div.ball {
+    position: relative;
+    width: 200px ;
+    height: 200px;
+    background-color: red;
+    border-radius: 100%;
+    display: inline-block
+
+
+
+}
+div {position: absolute;
+
+
+}
+
+div.ball1{
+    margin: 30px;
+    width: 140px;
+    height:140px ;
+    background-color: green;
+    border-radius: 100%;
+
+}
+
+div.ball2
+{ width: 70px;
+    height:70px ;
+    background-color: blue;
+    border-radius: 100%;
+    margin: 35px;
+
+}
